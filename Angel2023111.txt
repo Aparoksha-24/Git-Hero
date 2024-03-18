@@ -1,2 +1,6 @@
 Angel
+<<<<<<< HEAD
 fav food:maggi
+=======
+name:angel roll no.:iec2023111
+>>>>>>> feature
