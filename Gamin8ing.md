@@ -1,0 +1,1 @@
+It is because from 2020 Github has renamed its default branch as 'main' while other services still uses 'master' as their default branch. So repos from services except Github has master as their default branch.
